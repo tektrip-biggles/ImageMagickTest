@@ -1,0 +1,1 @@
+# Intermediate image files go here
